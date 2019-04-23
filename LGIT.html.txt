@@ -6,6 +6,6 @@
 </head>
 <body>
   <h1>tomeito</h1>
-  <p>tomattt</p>
+  <p>tomato</p>
 </body>
 </html>
